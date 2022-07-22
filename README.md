@@ -13,6 +13,8 @@
 
 <div>
 I am a Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Lebanon.
+  </div>
+  <div>
 🔭 I’m currently working as a Software Engineer as an IOS developer.
  </div>
 ⚡ In my free time, I love to watch anime as well as challenge my self with coding project
