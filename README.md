@@ -17,7 +17,7 @@ I am a Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giph
   <div>
 🔭 I’m currently working as a Software Engineer as an IOS developer.
  </div>
-⚡ In my free time, I love to watch anime as well as challenge my self with coding project
+⚡ In my free time, I love to watch anime as well as challenge my self with coding projects
   
 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Ramiismail-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ramiismail39/)  
 <div align="center">
